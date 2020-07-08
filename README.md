@@ -1,6 +1,6 @@
-![](https://img.shields.io/badge/Arista-EOS%20Automation-blue) ![GitHub](https://img.shields.io/github/license/aristanetworks/ansible-avd)  ![GitHub last commit](https://img.shields.io/github/last-commit/arista-netdevops-community/ansible-avd-eapi-demo) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/arista-netdevops-community/ansible-avd-eapi-demo)
+![](https://img.shields.io/badge/Arista-EOS%20Automation-blue) ![GitHub](https://img.shields.io/github/license/aristanetworks/ansible-avd)
 
-__WARNING:__ Ansible Validated Design demo. Work in Progress.
+__Content used during Red Hat webinar about [Ansible Network Automation with Arista CloudVision and Arista Validated Designs](https://www.ansible.com/resources/webinars-training/ansible-network-automation-with-arista-cloudvision-and-arista)__
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
